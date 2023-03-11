@@ -1,0 +1,23 @@
+1)
+int : Tam sayı
+float : Ondalıklı sayı
+str: metinsel veya karakter ifadeleri
+bool : Mantıksal ifadeler (Doğru ve Yanlış)
+
+2)
+string = kursun ismi, eğitmen ismi, menüdeki seçenekler
+integer = kursun tamamlanma yüzdesi 
+bool = Email me when someone responds to my comments. -> true
+
+3) 
+userPassword = "******"
+userName = "abcde"
+
+username = input("enter your username")
+password = input("enter your password")
+
+if(username == userName & password = usserPassword)
+  print("login succesfull")
+else
+  pring("username or password is incorrect")
+ 
